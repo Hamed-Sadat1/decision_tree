@@ -1,0 +1,4 @@
+Results:
+rights=1982
+total=3000
+persent=0.6606666666666666

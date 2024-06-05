@@ -1,0 +1,4 @@
+Results:
+rights=2016
+total=3000
+persent=0.672
